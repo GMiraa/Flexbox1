@@ -41,12 +41,13 @@ h1 {
 
 .cor2 {
     background-color: #63B1BC;
-    align-self: center;
+    order: 1;
+    align-self: end;
 }
-
+ 
 .cor3 {
     background-color: #EFB661;
-    align-self: end;
+    align-self: center;
 }
 
 .instrucoes {
